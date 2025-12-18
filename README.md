@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj9057&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj9057" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj9057" alt="pankaj9057" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=pankaj9057" alt="pankaj9057" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Broker Management System](https://pankaj9057.github.io/MsoRegistration/)
 
@@ -13,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj9057](https://github.com/pankaj9057)
 
-- 💬 Ask me about **react, dotnet 6, mongodb**
+- 💬 Ask me about **react, dotnet 10, mongodb, cosmosdb**
 
 - 📫 How to reach me **pankaj9057@gmail.com**
 
